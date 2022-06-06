@@ -8,6 +8,7 @@ h2 {
   flex-direction: row; /* options are row | row-reverse | column | column-reverse; */
   align-items: center; /* centers the items along the cross axis */
   border: 1px solid red;
+  background-color: pink;
   gap: 1rem; /* gap between items, set to 1 times the font size of the root element (the html element), which by default is 16px in most browsers */
 }
 
