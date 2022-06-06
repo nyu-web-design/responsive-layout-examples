@@ -11,7 +11,7 @@ body {
   grid-template-columns: 1fr 2fr; /* relative widths of columns */
   grid-template-areas:
     "header header"
-    "left-nav main-content "
+    "left-nav main-content"
     "footer footer";
 
   /* 

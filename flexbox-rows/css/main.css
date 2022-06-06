@@ -3,6 +3,17 @@ h2 {
   padding-top: 20px;
 }
 
+/* BORING BOXES */
+.box {
+  background-color: purple;
+  border: 1px solid white;
+  color: white;
+  width: 150px;
+  height: 150px;
+}
+
+/* ROWS */
+
 .row {
   display: flex;
   flex-direction: row; /* options are row | row-reverse | column | column-reverse; */
@@ -17,7 +28,7 @@ h2 {
 }
 
 .non-wrapping-row-centered {
-  /* right-align the items along the flex direction axis */
+  /* center-align the items along the flex direction axis */
   justify-content: center;
 }
 
@@ -74,13 +85,4 @@ h2 {
   flex-wrap: wrap;
   /* centers the items along the flex direction axis */
   justify-content: space-between;
-}
-
-/* BORING BOX */
-.box {
-  background-color: purple;
-  border: 1px solid white;
-  color: white;
-  width: 150px;
-  height: 150px;
 }
