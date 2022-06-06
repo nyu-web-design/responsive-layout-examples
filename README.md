@@ -12,6 +12,7 @@ CSS Grid is most useful for laying out the main structural elements of a page th
 
 - [Basic layout](./basic-layout)
 - [C-Clamp layout](./c-clamp-layout)
+- [Right-rail layout](./right-rail-layout)
 - [Cheerio layout](./cheerio-layout)
 
 ## CSS Flexbox
