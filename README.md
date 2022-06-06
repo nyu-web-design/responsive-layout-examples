@@ -4,7 +4,7 @@ Examples of basic web page layout concepts using CSS Grid and CSS Flexbox.
 
 ## Deployed
 
-These examples are published and available to view [here](https://github.com/nyu-web-design/layout-examples).
+These examples are published and available to view [here](https://nyu-web-design.github.io/layout-examples/), source code [here](https://github.com/nyu-web-design/layout-examples).
 
 ## CSS Grid
 
