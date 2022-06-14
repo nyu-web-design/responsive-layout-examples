@@ -10,4 +10,4 @@ These examples are published and available to view [here](https://nyu-web-design
 
 Examples:
 
-- [Three-column layout](./three-column-layout)
+- [Three-column responsive layout](./three-column-layout)
