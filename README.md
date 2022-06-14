@@ -1,22 +1,13 @@
-# CSS Layout Examples
+# CSS Responsive Layout Examples
 
-Examples of basic web page layout concepts using CSS Grid and CSS Flexbox.
+Examples of responsive web page layout concepts using [media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries) with the [CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) system.
 
 ## Deployed
 
-These examples are published and available to view [here](https://nyu-web-design.github.io/layout-examples/), source code [here](https://github.com/nyu-web-design/layout-examples).
+These examples are published and available to view [here](https://nyu-web-design.github.io/responsive-layout-examples/three-column-layout), source code [here](https://github.com/nyu-web-design/responsive-layout-examples).
 
-## CSS Grid
+## Layouts
 
-CSS Grid is most useful for laying out the main structural elements of a page themselves:
+Examples:
 
-- [Basic layout](./basic-layout)
-- [C-Clamp layout](./c-clamp-layout)
-- [Right-rail layout](./right-rail-layout)
-- [Cheerio layout](./cheerio-layout)
-
-## CSS Flexbox
-
-CSS Flexbox is most useful for laying out the content _within_ the main structural elements of a page
-
-- [Flexbox-rows](./flexbox-rows)
+- [Three-column layout](./three-column-layout)
