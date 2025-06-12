@@ -10,4 +10,6 @@ These examples are published and available to view [here](https://nyu-web-design
 
 Examples:
 
-- [Three-column responsive layout](./three-column-layout)
+- [Two-column "left nav" responsive layout](./left-nav-layout)
+- [Two-column "right rail" responsive layout](./right-rail-layout)
+- [Three-column "Cheerio" responsive layout](./cheerio-layout)

@@ -1,0 +1,67 @@
+/* GLOBAL */
+html,
+body {
+  /* override any browser defaults */
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  /* center the container within the page */
+  margin-left: auto;
+  margin-right: auto;
+
+  /* use the grid system in a 3-column layout */
+  display: grid;
+  /* 
+    Setting heights on elements is usually a bad idea.
+    If you don't set a height, the element will simply adjust its height to fit the content within it.
+    Here we set a height temporarily, since our elements have no content within them yet.
+    Delete this height setting once you put in content.
+  */
+  height: 100vh; /* 100vh is the full vertical height of the viewport */
+}
+
+/* HEADER & FOOTER */
+header,
+footer {
+  background-color: yellow;
+}
+
+header {
+  grid-area: header; /* name to use for this element in container's grid-template-areas style */
+
+  /* alternatively to the container's grid-template-areas technique, we could indicate how many grid spaces this element spans: */
+  /* grid-column: 1 / span 3; */ /* col start / col end */
+  /* grid-row: 1 / span 1; */ /* row start / row end */
+
+  /* a shorthand way to specify this element's grid position: */
+  /* grid-area: 1 / 1 / span 1 / span 3; */ /* row start / column start / row end / col end */
+}
+footer {
+  grid-area: footer; /* name to use for this element in grid-template-areas style */
+  /* grid-column: 1 / span 3;
+  grid-row: 3 / span 1; */
+}
+
+main {
+  grid-area: main-content;
+  background-color: pink;
+}
+
+/* LEFT NAV & RIGHT RAIL */
+
+nav,
+aside {
+  color: white;
+}
+
+nav {
+  grid-area: left-nav; /* name to use for this element in grid-template-areas style */
+  background-color: purple;
+}
+
+aside {
+  grid-area: right-rail; /* name to use for this element in grid-template-areas style */
+  background-color: fuchsia;
+}
