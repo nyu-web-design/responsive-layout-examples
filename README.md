@@ -4,11 +4,15 @@ Examples of responsive web page layout concepts using [media queries](https://de
 
 ## Deployed
 
-These examples are published and available to view [here](https://nyu-web-design.github.io/responsive-layout-examples/three-column-layout), source code [here](https://github.com/nyu-web-design/responsive-layout-examples).
+These examples are published and available to view online:
 
-## Layouts
+- [Cheerio (three column) layout](https://nyu-web-design.github.io/responsive-layout-examples/cheerio-layout)
+- [Left nav (two column) layout](https://nyu-web-design.github.io/responsive-layout-examples/left-nav-layout)
+- [Right rail (two column) layout](https://nyu-web-design.github.io/responsive-layout-examples/right-rail-layout)
 
-Examples:
+## Source
+
+Example code:
 
 - [Two-column "left nav" responsive layout](./left-nav-layout)
 - [Two-column "right rail" responsive layout](./right-rail-layout)
