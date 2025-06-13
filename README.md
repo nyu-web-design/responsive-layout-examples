@@ -4,7 +4,7 @@ Examples of responsive web page layout concepts using [media queries](https://de
 
 ## Deployed
 
-These examples are published and available to view:
+These examples are published and available to view online [here](https://nyu-web-design.github.io/responsive-layout-examples/):
 
 - [Two-column "left nav" responsive layout](./left-nav-layout)
 - [Two-column "right rail" responsive layout](./right-rail-layout)
