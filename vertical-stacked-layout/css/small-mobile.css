@@ -1,0 +1,11 @@
+.container {
+  grid-template-columns: 1fr; /* relative widths of columns */
+  grid-template-areas:
+    "header"
+    "left-nav"
+    "main-content"
+    "right-rail"
+    "footer";
+  /* just placeholder... don't set heights once you have real content on your page */
+  grid-template-rows: 1fr 1fr 5fr 1fr 1fr; /* relative heights of rows */
+}

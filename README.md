@@ -6,6 +6,7 @@ Examples of responsive web page layout concepts using [media queries](https://de
 
 These examples are published and available to view online [here](https://nyu-web-design.github.io/responsive-layout-examples/):
 
-- [Two-column "left nav" responsive layout](./left-nav-layout)
-- [Two-column "right rail" responsive layout](./right-rail-layout)
-- [Three-column "Cheerio" responsive layout](./cheerio-layout)
+- - [Vertical (single column) stacked layout](./vertical-stacked-layout/)
+- - [Left nav (two column) layout](./left-nav-layout)
+- - [Right rail (two column) layout](./right-rail-layout)
+- - [Cheerio (three column) layout](./cheerio-layout)
